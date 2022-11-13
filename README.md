@@ -20,3 +20,4 @@ Once the message is entered, it creates a Post of the message and the current ti
 * create Makefile
 * allow user to enter their own username
 * I want to build an app to host this program using android studio. 
+* Cool feature for a watch
