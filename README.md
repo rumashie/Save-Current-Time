@@ -1,6 +1,5 @@
 # Save-Current-Time
 
-I'm often taking screenshots of the time on my phone in order to measure the amount of time I spent doing something. For example, when I leave school I'll take a screenshot of the time, to calculate how long my commute took. 
 
 This program saves the current time. To use just run it on terminal with: 
 
