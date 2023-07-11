@@ -23,4 +23,4 @@ Once the message is entered, it creates a Post of the message and the current ti
 
 https://github.com/yomashie/Save-Current-Time/blob/main/ArchDiagram.pdf
 
-![alt text]https://github.com/yomashie/Save-Current-Time/blob/main/Screenshot%202023-07-11%20194032.png
+![alt text](https://github.com/yomashie/Save-Current-Time/blob/main/Screenshot%202023-07-11%20194032.png?raw=true)
