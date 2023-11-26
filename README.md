@@ -18,9 +18,3 @@ Once the message is entered, it creates a Post of the message and the current ti
 ### In the future:
 * create Makefile
 * allow user to enter their own username
-
-[embed]https://github.com/yomashie/Save-Current-Time/blob/main/ArchDiagram.pdf[/embed]
-
-https://github.com/yomashie/Save-Current-Time/blob/main/ArchDiagram.pdf
-
-![alt text](https://github.com/yomashie/Save-Current-Time/blob/main/Screenshot%202023-07-11%20194032.png)
